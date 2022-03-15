@@ -16,11 +16,3 @@ for(let i=0 ; i <= totMail; i++ ){
     }
 } 
 
-
-// if(chiediMail == mail[i]){
-//     document.getElementById("cont").innerHTML = "<div>sei iscitto</div>"
-    
-// }
-// else {
-//     document.getElementById("cont").innerHTML = "<div>non sei iscitto</div>"
-// }
